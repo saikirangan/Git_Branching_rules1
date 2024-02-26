@@ -5,4 +5,5 @@
        PROCEDURE DIVISION.                                              00060001
            DISPLAY 'HELLO WORLD'.                                       00070001
            DISPLAY 'THIS IS POPUP'.
+           DISPLAY 'POPUP_INIDA'.
            STOP RUN.                                                    00080001
